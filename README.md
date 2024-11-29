@@ -12,7 +12,7 @@ Este é um sistema de gerenciamento para salões de beleza que permite o cadastr
 
 Antes de começar, verifique se você tem os seguintes requisitos instalados:
 
-- Node.js (versão 16.x ou superior)
+- Node.js
 - npm (normalmente vem com o Node.js) ou yarn
 
 ## 📦 Instalação
@@ -22,11 +22,10 @@ Siga estes passos para configurar o projeto localmente:
 1. Clone o repositório
 
 ```bash
-git clone
-cd world-beauty
+git clone https://github.com/0thigs/at2.git
 ```
 
-2. Instale as dependências
+2. Instale as dependências dentro da pasta do projeto
 
 ```bash
 npm install
